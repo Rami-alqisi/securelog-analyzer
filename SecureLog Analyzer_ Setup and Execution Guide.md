@@ -58,3 +58,4 @@ You should now see the SecureLog Analyzer dashboard, where you can view log summ
 *   **`streamlit` command not found**: Ensure Streamlit is installed correctly. You might need to restart your terminal after installation.
 *   **ModuleNotFoundError**: Double-check that all dependencies from `requirements.txt` are installed. Make sure you are running the commands from within the `securelog-analyzer` directory.
 *   **Log file not found**: Ensure `sample.log` is present in the `logs/` subdirectory within your `securelog-analyzer` project folder.
+*   
